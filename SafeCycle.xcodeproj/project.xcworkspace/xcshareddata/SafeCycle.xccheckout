@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>012F3962-3DB5-46BA-85D7-A916024B6DEF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SafeCycle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D269B73-1774-45AE-A238-264EB4C5E0DB</key>
+		<string>https://github.com/alombardo4/SafeCycleiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SafeCycle.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D269B73-1774-45AE-A238-264EB4C5E0DB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alombardo4/SafeCycleiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D269B73-1774-45AE-A238-264EB4C5E0DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D269B73-1774-45AE-A238-264EB4C5E0DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SafeCycleiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
